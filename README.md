@@ -1,12 +1,11 @@
+<a href="#"><img width="100%" height="auto" src="https://i.imgflip.com/5eil3l.png" height="175px"/></a>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chaitanya Sapre</h1>
 
 
 ## 🙋‍♂️ About Me
 - 🔭 I’m a BTech CSE with spl. in AI & ML student at VIT Bhopal University.
 - 🌱 I’m currently learning Machine Learning and Data Science
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
 - ⚡ 
 
