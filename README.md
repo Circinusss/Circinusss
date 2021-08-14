@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Chaitanya Sapre
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chaitanya Sapre</h1>
 
 
 ## 🙋‍♂️ About Me
@@ -42,6 +42,7 @@
 ## Connect with me:
 <p align="left">
 
+<a href = "mailto: saprechaitanya@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 <a href = "https://www.linkedin.com/in/chaitanya-kedar-sapre/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/_ChaitanyaSapre"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/__.circinus.__/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
