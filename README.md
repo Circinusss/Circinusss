@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chaitanya Sapre</h1>
-<h3 align="center">I’m a BTech CSE with spl. in AI & ML student at VIT Bhopal University. I am passionate about Data Science and Data Analytics.</h3>
+<h3 align="center">I’m a BTech CSE with spl. in AI & ML student at VIT Bhopal University.<br>I am passionate about Data Science and Data Analytics.</h3>
 
 - 🔭 I’m currently working on [Expense App](https://github.com/Circinusss/Expense-App)
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href = "mailto: saprechaitanya@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+<a href = "mailto: saprechaitanya@gmail.com"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" height="30" width="40" /></a>
 <a href="https://twitter.com/_chaitanyasapre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_chaitanyasapre" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chaitanya-kedar-sapre/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaitanya-kedar-sapre/" height="30" width="40" /></a>
 <a href="https://kaggle.com/chaitanyasapre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chaitanyasapre" height="30" width="40" /></a>
