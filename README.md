@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Chaitanya Sapre</h1>
+<a href="#"><img width="100%" height="auto" src="https://imgix.bustle.com/uploads/image/2018/12/10/2f4d6cf4-2d2a-42d2-be29-639ae2e762f8-screen-shot-2018-12-10-at-10148-pm.png?w=1200&h=630&fit=crop&crop=faces&fm=jpg" height="175px"/></a>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chaitanya Sapre</h1>
 <h3 align="center">I’m a BTech CSE with spl. in AI & ML student at VIT Bhopal University.<br>I am passionate about Data Science and Data Analytics.</h3>
 
 - 🔭 I’m currently working on [Expense App](https://github.com/Circinusss/Expense-App)
